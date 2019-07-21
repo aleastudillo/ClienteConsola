@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\ClaseConsola\ClaseConsola\bin\Debug\ClaseConsola.exe.config
+C:\Users\alex_\source\repos\ClaseConsola\ClaseConsola\bin\Debug\ClaseConsola.exe
+C:\Users\alex_\source\repos\ClaseConsola\ClaseConsola\bin\Debug\ClaseConsola.pdb
+C:\Users\alex_\source\repos\ClaseConsola\ClaseConsola\obj\Debug\ClaseConsola.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\ClaseConsola\ClaseConsola\obj\Debug\ClaseConsola.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\ClaseConsola\ClaseConsola\obj\Debug\ClaseConsola.exe
+C:\Users\alex_\source\repos\ClaseConsola\ClaseConsola\obj\Debug\ClaseConsola.pdb
